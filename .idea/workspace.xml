@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f145647-610b-42fc-8f94-be005b81ddec" name="Default" comment="pom fix" />
+    <list default="true" id="7f145647-610b-42fc-8f94-be005b81ddec" name="Default" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,6 +218,7 @@
       <workItem from="1668069130759" duration="40000" />
       <workItem from="1668069191521" duration="7297000" />
       <workItem from="1668086224064" duration="25366000" />
+      <workItem from="1668114956701" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="pom fix">
       <created>1668114315139</created>
@@ -226,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668114315139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1668115084288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668115084288</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -274,7 +282,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -288,7 +296,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pom fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom fix" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
