@@ -6,7 +6,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
-          <factory-entry name="PP_1_1_3-4_JDBC_Hibernate" />
+          <factory-entry name="PP_1_1_3-4_JDBC_Hibernate" value="87f2c206-a077-477a-8a0d-c6926b8d96e2" />
         </datasource-mapping>
         <naming-strategy-map />
       </configuration>
